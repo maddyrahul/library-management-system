@@ -1,0 +1,446 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rahulmaddheshiya\\Downloads\\Project2\\Book_Borrowing_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17315240-CA21-461B-A092-7B2FEFE63CF7}|Presentation_Layer\\Presentation_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\project2\\book_borrowing_system\\presentation_layer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17315240-CA21-461B-A092-7B2FEFE63CF7}|Presentation_Layer\\Presentation_Layer.csproj|solutionrelative:presentation_layer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17315240-CA21-461B-A092-7B2FEFE63CF7}|Presentation_Layer\\Presentation_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\project2\\book_borrowing_system\\presentation_layer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17315240-CA21-461B-A092-7B2FEFE63CF7}|Presentation_Layer\\Presentation_Layer.csproj|solutionrelative:presentation_layer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8FB296-9A5D-40B7-8C80-A612E89803CD}|Business_Layer\\Business_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\project2\\book_borrowing_system\\business_layer\\login_logic\\userauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8FB296-9A5D-40B7-8C80-A612E89803CD}|Business_Layer\\Business_Layer.csproj|solutionrelative:business_layer\\login_logic\\userauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8FB296-9A5D-40B7-8C80-A612E89803CD}|Business_Layer\\Business_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\project2\\book_borrowing_system\\business_layer\\login_logic\\iuserauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8FB296-9A5D-40B7-8C80-A612E89803CD}|Business_Layer\\Business_Layer.csproj|solutionrelative:business_layer\\login_logic\\iuserauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186B4D79-4997-4816-83E6-165A5B821EF4}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\project2\\book_borrowing_system\\data_access_layer\\models\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186B4D79-4997-4816-83E6-165A5B821EF4}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\models\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186B4D79-4997-4816-83E6-165A5B821EF4}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\project2\\book_borrowing_system\\data_access_layer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186B4D79-4997-4816-83E6-165A5B821EF4}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186B4D79-4997-4816-83E6-165A5B821EF4}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\project2\\book_borrowing_system\\data_access_layer\\dto\\user_login_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186B4D79-4997-4816-83E6-165A5B821EF4}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\dto\\user_login_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17315240-CA21-461B-A092-7B2FEFE63CF7}|Presentation_Layer\\Presentation_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\project2\\book_borrowing_system\\presentation_layer\\controllers\\login_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17315240-CA21-461B-A092-7B2FEFE63CF7}|Presentation_Layer\\Presentation_Layer.csproj|solutionrelative:presentation_layer\\controllers\\login_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186B4D79-4997-4816-83E6-165A5B821EF4}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\project2\\book_borrowing_system\\data_access_layer\\migrations\\20240610103558_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186B4D79-4997-4816-83E6-165A5B821EF4}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\migrations\\20240610103558_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186B4D79-4997-4816-83E6-165A5B821EF4}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\project2\\book_borrowing_system\\data_access_layer\\models\\borrow_lent_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186B4D79-4997-4816-83E6-165A5B821EF4}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\models\\borrow_lent_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186B4D79-4997-4816-83E6-165A5B821EF4}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\project2\\book_borrowing_system\\data_access_layer\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186B4D79-4997-4816-83E6-165A5B821EF4}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17315240-CA21-461B-A092-7B2FEFE63CF7}|Presentation_Layer\\Presentation_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\project2\\book_borrowing_system\\presentation_layer\\controllers\\bookdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17315240-CA21-461B-A092-7B2FEFE63CF7}|Presentation_Layer\\Presentation_Layer.csproj|solutionrelative:presentation_layer\\controllers\\bookdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17315240-CA21-461B-A092-7B2FEFE63CF7}|Presentation_Layer\\Presentation_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\project2\\book_borrowing_system\\presentation_layer\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17315240-CA21-461B-A092-7B2FEFE63CF7}|Presentation_Layer\\Presentation_Layer.csproj|solutionrelative:presentation_layer\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8FB296-9A5D-40B7-8C80-A612E89803CD}|Business_Layer\\Business_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\project2\\book_borrowing_system\\business_layer\\book_logic\\getuserlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8FB296-9A5D-40B7-8C80-A612E89803CD}|Business_Layer\\Business_Layer.csproj|solutionrelative:business_layer\\book_logic\\getuserlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8FB296-9A5D-40B7-8C80-A612E89803CD}|Business_Layer\\Business_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\project2\\book_borrowing_system\\business_layer\\book_logic\\igetuserlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8FB296-9A5D-40B7-8C80-A612E89803CD}|Business_Layer\\Business_Layer.csproj|solutionrelative:business_layer\\book_logic\\igetuserlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Project2\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231206104707_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\jkl\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231130132254_addkl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\jkl\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231130132010_addkl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\jkl\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231130131618_addkl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\jkl\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231130123429_addkl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\jkl\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231130102025_addk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186B4D79-4997-4816-83E6-165A5B821EF4}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\project2\\book_borrowing_system\\data_access_layer\\dto\\user_register_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186B4D79-4997-4816-83E6-165A5B821EF4}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\dto\\user_register_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231125130220_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231125125032_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231125123029_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231125122423_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231125122209_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231124093354_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\Project2\\Book_Borrowing_System\\Data_Access_Layer\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\Project2\\Book_Borrowing_System\\Data_Access_Layer\\Models\\User.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:35:53.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User_Login_Dto.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\Project2\\Book_Borrowing_System\\Data_Access_Layer\\DTO\\User_Login_Dto.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\DTO\\User_Login_Dto.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\Project2\\Book_Borrowing_System\\Data_Access_Layer\\DTO\\User_Login_Dto.cs",
+              "RelativeToolTip": "Data_Access_Layer\\DTO\\User_Login_Dto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:35:53.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserAuthentication.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\Project2\\Book_Borrowing_System\\Business_Layer\\Login_Logic\\IUserAuthentication.cs",
+              "RelativeDocumentMoniker": "Business_Layer\\Login_Logic\\IUserAuthentication.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\Project2\\Book_Borrowing_System\\Business_Layer\\Login_Logic\\IUserAuthentication.cs",
+              "RelativeToolTip": "Business_Layer\\Login_Logic\\IUserAuthentication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:35:53.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserAuthentication.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\Project2\\Book_Borrowing_System\\Business_Layer\\Login_Logic\\UserAuthentication.cs",
+              "RelativeDocumentMoniker": "Business_Layer\\Login_Logic\\UserAuthentication.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\Project2\\Book_Borrowing_System\\Business_Layer\\Login_Logic\\UserAuthentication.cs",
+              "RelativeToolTip": "Business_Layer\\Login_Logic\\UserAuthentication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:35:53.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\Project2\\Book_Borrowing_System\\Presentation_Layer\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation_Layer\\Program.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\Project2\\Book_Borrowing_System\\Presentation_Layer\\Program.cs",
+              "RelativeToolTip": "Presentation_Layer\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:35:53.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\Project2\\Book_Borrowing_System\\Presentation_Layer\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation_Layer\\appsettings.json",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\Project2\\Book_Borrowing_System\\Presentation_Layer\\appsettings.json",
+              "RelativeToolTip": "Presentation_Layer\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-25T13:35:53.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibraryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\Project2\\Book_Borrowing_System\\Data_Access_Layer\\Models\\LibraryDbContext.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Models\\LibraryDbContext.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\Project2\\Book_Borrowing_System\\Data_Access_Layer\\Models\\LibraryDbContext.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Models\\LibraryDbContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:35:53.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login_User.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\Project2\\Book_Borrowing_System\\Presentation_Layer\\Controllers\\Login_User.cs",
+              "RelativeDocumentMoniker": "Presentation_Layer\\Controllers\\Login_User.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\Project2\\Book_Borrowing_System\\Presentation_Layer\\Controllers\\Login_User.cs",
+              "RelativeToolTip": "Presentation_Layer\\Controllers\\Login_User.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:35:53.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240610103558_add.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\Project2\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20240610103558_add.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Migrations\\20240610103558_add.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\Project2\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20240610103558_add.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Migrations\\20240610103558_add.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:35:58.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\Project2\\Book_Borrowing_System\\Data_Access_Layer\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\Project2\\Book_Borrowing_System\\Data_Access_Layer\\Models\\Book.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Models\\Book.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:35:53.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookDetails.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\Project2\\Book_Borrowing_System\\Presentation_Layer\\Controllers\\BookDetails.cs",
+              "RelativeDocumentMoniker": "Presentation_Layer\\Controllers\\BookDetails.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\Project2\\Book_Borrowing_System\\Presentation_Layer\\Controllers\\BookDetails.cs",
+              "RelativeToolTip": "Presentation_Layer\\Controllers\\BookDetails.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAADwv+cAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:35:53.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Borrow_Lent_Details.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\Project2\\Book_Borrowing_System\\Data_Access_Layer\\Models\\Borrow_Lent_Details.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Models\\Borrow_Lent_Details.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\Project2\\Book_Borrowing_System\\Data_Access_Layer\\Models\\Borrow_Lent_Details.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Models\\Borrow_Lent_Details.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:35:53.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IGetUserLogic.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\Project2\\Book_Borrowing_System\\Business_Layer\\Book_Logic\\IGetUserLogic.cs",
+              "RelativeDocumentMoniker": "Business_Layer\\Book_Logic\\IGetUserLogic.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\Project2\\Book_Borrowing_System\\Business_Layer\\Book_Logic\\IGetUserLogic.cs",
+              "RelativeToolTip": "Business_Layer\\Book_Logic\\IGetUserLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:35:53.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetUserLogic.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\Project2\\Book_Borrowing_System\\Business_Layer\\Book_Logic\\GetUserLogic.cs",
+              "RelativeDocumentMoniker": "Business_Layer\\Book_Logic\\GetUserLogic.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\Project2\\Book_Borrowing_System\\Business_Layer\\Book_Logic\\GetUserLogic.cs",
+              "RelativeToolTip": "Business_Layer\\Book_Logic\\GetUserLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:35:53.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\Project2\\Book_Borrowing_System\\Presentation_Layer\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Presentation_Layer\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\Project2\\Book_Borrowing_System\\Presentation_Layer\\WeatherForecast.cs",
+              "RelativeToolTip": "Presentation_Layer\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:35:53.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20231206104707_add.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\project2\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231206104707_add.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive - Nagarro\\Desktop\\project2\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231206104707_add.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\project2\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231206104707_add.cs",
+              "RelativeToolTip": "..\\..\\..\\OneDrive - Nagarro\\Desktop\\project2\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231206104707_add.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-06T10:47:07.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20231130131618_addkl.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\jkl\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231130131618_addkl.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive - Nagarro\\Desktop\\jkl\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231130131618_addkl.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\jkl\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231130131618_addkl.cs",
+              "RelativeToolTip": "..\\..\\..\\OneDrive - Nagarro\\Desktop\\jkl\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231130131618_addkl.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T13:16:18.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20231130132254_addkl.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\jkl\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231130132254_addkl.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive - Nagarro\\Desktop\\jkl\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231130132254_addkl.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\jkl\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231130132254_addkl.cs",
+              "RelativeToolTip": "..\\..\\..\\OneDrive - Nagarro\\Desktop\\jkl\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231130132254_addkl.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T13:22:54.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20231130132010_addkl.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\jkl\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231130132010_addkl.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive - Nagarro\\Desktop\\jkl\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231130132010_addkl.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\jkl\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231130132010_addkl.cs",
+              "RelativeToolTip": "..\\..\\..\\OneDrive - Nagarro\\Desktop\\jkl\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231130132010_addkl.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T13:20:10.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20231130123429_addkl.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\jkl\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231130123429_addkl.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive - Nagarro\\Desktop\\jkl\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231130123429_addkl.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\jkl\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231130123429_addkl.cs",
+              "RelativeToolTip": "..\\..\\..\\OneDrive - Nagarro\\Desktop\\jkl\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231130123429_addkl.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T12:34:29.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20231130102025_addk.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\jkl\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231130102025_addk.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive - Nagarro\\Desktop\\jkl\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231130102025_addk.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\jkl\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231130102025_addk.cs",
+              "RelativeToolTip": "..\\..\\..\\OneDrive - Nagarro\\Desktop\\jkl\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231130102025_addk.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T10:20:25.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User_Register_Dto.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\Project2\\Book_Borrowing_System\\Data_Access_Layer\\DTO\\User_Register_Dto.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\DTO\\User_Register_Dto.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\Project2\\Book_Borrowing_System\\Data_Access_Layer\\DTO\\User_Register_Dto.cs",
+              "RelativeToolTip": "Data_Access_Layer\\DTO\\User_Register_Dto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:35:53.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20231125130220_add.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231125130220_add.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive - Nagarro\\Desktop\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231125130220_add.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231125130220_add.cs",
+              "RelativeToolTip": "..\\..\\..\\OneDrive - Nagarro\\Desktop\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231125130220_add.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-25T13:02:20.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20231125125032_add.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231125125032_add.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive - Nagarro\\Desktop\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231125125032_add.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231125125032_add.cs",
+              "RelativeToolTip": "..\\..\\..\\OneDrive - Nagarro\\Desktop\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231125125032_add.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-25T12:50:32.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20231125123029_add.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231125123029_add.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive - Nagarro\\Desktop\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231125123029_add.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231125123029_add.cs",
+              "RelativeToolTip": "..\\..\\..\\OneDrive - Nagarro\\Desktop\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231125123029_add.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-25T12:30:30.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20231125122423_add.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231125122423_add.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive - Nagarro\\Desktop\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231125122423_add.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231125122423_add.cs",
+              "RelativeToolTip": "..\\..\\..\\OneDrive - Nagarro\\Desktop\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231125122423_add.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-25T12:24:23.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20231125122209_add.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231125122209_add.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive - Nagarro\\Desktop\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231125122209_add.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231125122209_add.cs",
+              "RelativeToolTip": "..\\..\\..\\OneDrive - Nagarro\\Desktop\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231125122209_add.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-25T12:22:09.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20231124093354_add.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231124093354_add.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive - Nagarro\\Desktop\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231124093354_add.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231124093354_add.cs",
+              "RelativeToolTip": "..\\..\\..\\OneDrive - Nagarro\\Desktop\\Book_Borrowing_System\\Data_Access_Layer\\Migrations\\20231124093354_add.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-24T09:33:54.707Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
